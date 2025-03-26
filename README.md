@@ -3,7 +3,7 @@
 1. ⚙️ [Tech Stack](#tech-stack)
 2. 🔋 [Features](#features)
 3. 🤸 [Quick Start](#quick-start)
-4. 🧑🏻‍💻 [Preview] (#preview)
+4. 🧑🏻‍💻 [Preview](#preview)
 
 ## <a name="introduction">🤖 Introduction</a>
 
